@@ -15,6 +15,7 @@ Perdu
 
 """
 
+
 def porte_monnaie_f_reussie(Nombre_joueurs):
     argents = 0
     while argents < 20:
