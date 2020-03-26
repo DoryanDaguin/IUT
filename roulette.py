@@ -1,7 +1,6 @@
 # -*- coding: utf-8 -*-
 """
 Created on Fri Mar 20 09:43:28 2020
-
 @author: Doryan DAGUIN
 
 """
