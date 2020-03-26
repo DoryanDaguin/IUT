@@ -190,11 +190,11 @@ def aller_a_paris(input_call=input):
     # en fonction de saisie on continue a demander ou on renvoie 'Paris'
     # Au lieu d'utiliser input comme en cours vous appelez input_call
     # par défaut elle vaut input donc vous pouvez appeller
-    ville = input_call("Saisissez une déstination :")
+    ville = input_call("Déstination :")
     i=1
     while ville.lower() !="paris":
         i+=1
-        ville = input_call("Saisissez une déstination :")
+        ville = input_call("Déstination :")
        
     return i,"Paris"
 
